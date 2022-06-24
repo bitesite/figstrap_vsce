@@ -3,6 +3,7 @@
     "publisher": "bitesite",
     "displayName": "FigStrap",
     "description": "Code Snippets for FigStrap",
+    "repository": "https://github.com/bitesite/figstrap_vsce",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
