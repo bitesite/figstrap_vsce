@@ -1,0 +1,17 @@
+{
+	"FigStrap Auto-layout frame w/ padding": {
+		"prefix": ["div.fgs-al"],
+		"body": ["<div class='fgs-al fgs-al-${1:direction} fgs-al-g-${2:gap} fgs-al-p-${3:padding}'>", "\t$0", "</div>"],
+		"description": "Auto-layout frame"
+	},
+	"FigStrap Auto-layout frame w/o padding": {
+		"prefix": ["div.fgs-al"],
+		"body": ["<div class='fgs-al fgs-al-${1:direction} fgs-al-g-${2:gap}'>", "\t$0", "</div>"],
+		"description": "Auto-layout frame"
+	},
+	"FigStrap Auto-layout item": {
+		"prefix": ["div.fgs-ali"],
+		"body": ["<div class='fgs-ali'>", "</div>"],
+		"description": "Auto-layout frame"
+	},
+}
