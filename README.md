@@ -22,6 +22,10 @@ This doesn't seem to work in JSX files at this time.
 
 ## Release Notes
 
+### 0.0.2
+
+- Added Icon for VS Code Marketplace
+
 ### 0.0.1
 
 - Initial release
